@@ -1,4 +1,4 @@
-# hasstankcard
+# Lovelace hass tank card
 lovelace tank card for home assistant
 Thẻ bể nước dành cho người dùng home assistant
 bản đầu tiên mọi người thêm thủ công bằng cách copy file water-tank-card.js vào đường dẫn :
